@@ -1,0 +1,13 @@
+{
+  "name": "qrcodeGenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kakenn/qrcodeGenerator.git",
+  "author": "三上航人",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "koa": "^2.5.1",
+    "qrcode": "^1.2.0"
+  }
+}
